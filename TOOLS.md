@@ -144,7 +144,7 @@ Never claim that an external action was completed if it was not actually perform
 
 ## Current workspace
 
-- Workspace: `/workspaces/openclaw-mononoke1986`
+- Workspace: `/root/.openclaw/workspace`
 - Git branch: `main`
 - Repository: `4GeeksAcademy/openclaw-mononoke1986`
 - Primary language for interaction: Spanish.
